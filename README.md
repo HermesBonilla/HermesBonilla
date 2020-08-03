@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+
+
+### Connect With Me:
+[<img allign="left" alt="HermesBonilla | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][LinkedIn]
+
+
+
+
+
+
+
+[LinkedIn]:https://www.linkedin.com/in/hermesbonilla/
+
 
 <!--
 **HermesBonilla/HermesBonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
