@@ -1,8 +1,16 @@
 ### Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 
-### 💻 Connect With Me:
+[![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)
+<br />
+
+<details open>
+<summary>💻 Connect With Me:</summary>
+<br>
+
 [<img allign="left" alt="HermesBonilla | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][LinkedIn]
+</details>
 
 <br />
 
@@ -10,7 +18,19 @@
 <summary>🔎 I'm currently working on:</summary>
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HermesBonilla&repo=Tic-Tac-Toe)](https://github.com/HermesBonilla/Tic-Tac-Toe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HermesBonilla&theme=tokyonight&repo=Tic-Tac-Toe)](https://github.com/HermesBonilla/Tic-Tac-Toe)
+</details>
+
+<br />
+
+<details open>
+<summary>Test</summary>
+<br>
+Test #2
+</details>
+<br />
+
+---
 
 <br />
 
