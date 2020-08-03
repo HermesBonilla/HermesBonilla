@@ -7,12 +7,13 @@
 [<img allign="left" alt="HermesBonilla | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][LinkedIn]
 
 
+<br />
 
-
-
+[![Hermes' github stats](https://github-readme-stats.vercel.app/api?username=HermesBonilla&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [LinkedIn]:https://www.linkedin.com/in/hermesbonilla/
+
 
 
 <!--
