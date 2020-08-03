@@ -1,11 +1,16 @@
 ### Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
 
-
-
-
-### Connect With Me:
+### 💻 Connect With Me:
 [<img allign="left" alt="HermesBonilla | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][LinkedIn]
 
+<br />
+
+<details open>
+<summary>🔎 I'm currently working on:</summary>
+<br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HermesBonilla&repo=Tic-Tac-Toe)](https://github.com/HermesBonilla/Tic-Tac-Toe)
 
 <br />
 
