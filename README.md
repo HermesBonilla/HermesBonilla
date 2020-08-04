@@ -1,5 +1,5 @@
-### Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- 
+### Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src= "https://octodex.github.com/images/waldocat.png" width="145px" Title="You found Waldo!">
+
 
 [![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)&nbsp;
 [![Generic badge](https://img.shields.io/badge/Preferred_Language-Python-295d7f.svg)](https://shields.io/)
