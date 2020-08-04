@@ -1,7 +1,7 @@
 ### Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 
-[![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)&nbsp;
 [![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)
 <br />
 
@@ -9,7 +9,8 @@
 <summary>💻 Connect With Me:</summary>
 <br>
 
-[<img allign="left" alt="HermesBonilla | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][LinkedIn]
+[<img allign="left" alt="HermesBonilla | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;
+[<img allign="left" alt="HermesBonilla | Github" width="22px" src="https://simpleicons.org/icons/github.svg" />][Github]
 </details>
 
 <br />
@@ -24,9 +25,11 @@
 <br />
 
 <details open>
-<summary>Test</summary>
-<br>
-Test #2
+<summary>👾 Facts about me:</summary>
+
+1. 🔬 Currently doing research concerning the detection of Deepfakes
+2. I am 17 years old
+3. 🤿 I love snorkeling 
 </details>
 <br />
 
@@ -38,7 +41,7 @@ Test #2
 
 
 [LinkedIn]:https://www.linkedin.com/in/hermesbonilla/
-
+[Github]:https://github.com/HermesBonilla
 
 
 <!--
