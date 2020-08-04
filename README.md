@@ -2,7 +2,7 @@
  
 
 [![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)&nbsp;
-[![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Preferred_Language-Python-295d7f.svg)](https://shields.io/)
 <br />
 
 <details open>
@@ -33,11 +33,12 @@
 </details>
 <br />
 
----
 
-<br />
+<details open>
+<summary> Some GitHub Stats!</summary>
 
 [![Hermes' github stats](https://github-readme-stats.vercel.app/api?username=HermesBonilla&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 
 [LinkedIn]:https://www.linkedin.com/in/hermesbonilla/
