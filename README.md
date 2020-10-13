@@ -20,7 +20,7 @@
 <summary>🔎 I'm currently working on:</summary>
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HermesBonilla&theme=tokyonight&repo=Tic-Tac-Toe)](https://github.com/HermesBonilla/ShellHacks2020)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HermesBonilla&theme=tokyonight&repo=ShellHacks2020)](https://github.com/HermesBonilla/ShellHacks2020)
 </details>
 
 <br />
