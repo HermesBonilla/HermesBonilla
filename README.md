@@ -29,7 +29,7 @@
 <summary>👾 Facts about me:</summary>
 
 1. 🔬 Currently doing research concerning the detection of Deepfakes
-2. I am 17 years old
+2. I am 18 years old
 3. 🤿 I love snorkeling 
 </details>
 <br />
