@@ -4,13 +4,13 @@
 [![Generic badge](https://img.shields.io/badge/Preferred_Language-Python-295d7f.svg)](https://shields.io/)
 
 <img align="left" width="150px" src="https://octodex.github.com/images/waldocat.png" title="You found Waldo!">
-
+<p>
 👾 Facts about me:
 
 &nbsp;&nbsp;1. 🔬 Currently doing research concerning the detection of Deepfakes<br/>
 &nbsp;&nbsp;2. I am 18 years old<br/>
 &nbsp;&nbsp;3. 🤿 I love snorkeling<br/>
-
+<p/>
 <br clear="left"/>
 
 
