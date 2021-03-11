@@ -3,10 +3,15 @@
 [![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)&nbsp;
 [![Generic badge](https://img.shields.io/badge/Preferred_Language-Python-295d7f.svg)](https://shields.io/)
 
+<img align="left" width="150px" src="https://octodex.github.com/images/waldocat.png" title="You found Waldo!">
 
+👾 Facts about me:
 
-<h2 align="left"><img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found Waldo!">
-<br/>
+&nbsp;&nbsp;1. 🔬 Currently doing research concerning the detection of Deepfakes<br/>
+&nbsp;&nbsp;2. I am 18 years old<br/>
+&nbsp;&nbsp;3. 🤿 I love snorkeling<br/>
+
+<br clear="left"/>
 
 
 <details open>
