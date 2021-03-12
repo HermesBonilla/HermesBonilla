@@ -1,5 +1,7 @@
+<!---Decorative upper gradient--->
 <img src="https://github.com/HermesBonilla/HermesBonilla/blob/master/Assets/Top-Github-Gradient.png?raw=true" title="Top Gradient">
 
+<!---Greeting header w/ shields--->
 <h1 align="center">Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <br/>
   <a align="center">
@@ -8,7 +10,7 @@
   </a>
 <h1/>
 
-<br clear="left"/>
+<!---Waldo Octocat w/ personal facts--->
 <img align="left" width="150px" src="https://octodex.github.com/images/waldocat.png" title="You found Waldo!">
 
 ### 👾 Facts about me:
@@ -19,6 +21,7 @@
 
 <br clear="left"/>
 
+<!---Current repo Card--->
 <details open>
 <summary>🔎 I'm currently working on:</summary>
 <br>
@@ -27,12 +30,15 @@
 </details>
 
 
+<!---Github dynamically updated statistics--->
 <details open>
 <summary> Some GitHub Stats!</summary>
+<br>
 
 [![Hermes' github stats](https://github-readme-stats.vercel.app/api?username=HermesBonilla&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
+<!---Connection icons w/ call to action--->
 <hr>
 <p align="center">
   <i>Connect with me! I love meeting new people.</i>
@@ -43,4 +49,5 @@
   </p>
 </p>
 
+<!---Decorative bottom gradient--->
 <img src="https://github.com/HermesBonilla/HermesBonilla/blob/master/Assets/Bottom-Github-Gradient.png?raw=true" Title="Bottom Gradient">
