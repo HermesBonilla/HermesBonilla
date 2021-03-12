@@ -1,10 +1,11 @@
+<img src="https://github.com/HermesBonilla/HermesBonilla/blob/master/Assets/Top-Github-Gradient.png?raw=true" Title="Top Gradient">
+
 <h1 align="center">Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1/>
 
 [![Generic badge](https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg)](https://shields.io/)&nbsp;
 [![Generic badge](https://img.shields.io/badge/Preferred_Language-Python-295d7f.svg)](https://shields.io/)
 
 <br clear="left"/>
-
 <img align="left" width="150px" src="https://octodex.github.com/images/waldocat.png" title="You found Waldo!">
 
 ### 👾 Facts about me:
@@ -40,6 +41,7 @@
 
 <br />
 
+<img src="https://github.com/HermesBonilla/HermesBonilla/blob/master/Assets/Bottom-Github-Gradient.png?raw=true" Title="Bottom Gradient">
 
 [LinkedIn]:https://www.linkedin.com/in/hermesbonilla/
 [Github]:https://github.com/HermesBonilla
