@@ -1,10 +1,12 @@
 <img src="https://github.com/HermesBonilla/HermesBonilla/blob/master/Assets/Top-Github-Gradient.png?raw=true" title="Top Gradient">
 
-<h1 align="center">Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1/>
-<p align="center">
-  <img align="center" src="https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg" title="Vs Code Badge">
-  <img align="center" src="https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg" title="Python Badge">
-</p>
+<h1 align="center">Hi there, I'm Hermes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <br/>
+  <a align="center">
+    <img align="center" src="https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg" title="Vs Code Badge">
+    <img align="center" src="https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg" title="Python Badge">
+  </a>
+<h1/>
 
 <br clear="left"/>
 <img align="left" width="150px" src="https://octodex.github.com/images/waldocat.png" title="You found Waldo!">
