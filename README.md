@@ -6,7 +6,7 @@
   <br/>
   <a align="center">
     <img align="center" src="https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg" title="Vs Code Badge">
-    <img align="center" src="https://img.shields.io/badge/Preferred_Editor-Vs_Code-blue.svg" title="Python Badge">
+    <img align="center" src="https://img.shields.io/badge/Preferred%20Language-Python-blue" title="Python Badge">
   </a>
 <h1/>
 
