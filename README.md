@@ -16,7 +16,7 @@
 ### 👾 Facts about me:
 
 &nbsp;&nbsp;1. 🔬 Currently doing research concerning the detection of audio Deepfakes<br/>
-&nbsp;&nbsp;2. I am 18 years old<br/>
+&nbsp;&nbsp;2. I am 19 years old<br/>
 &nbsp;&nbsp;3. 🤿 &nbsp;I love snorkeling<br/>
 
 <br clear="left"/>
